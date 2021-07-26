@@ -1,7 +1,7 @@
 {
   "name": "react-youtube-clone",
   "version": "1.0.0",
-  "description": "Simple youtube clone for Redux with React and Babel support using youtube API",
+  "description": "Simple youtube clone, using youtube API to get started with React and Babel support",
   "main": "index.js",
   "repository": "git@github.com:nour-karoui/react-youtube-clone",
   "scripts": {
